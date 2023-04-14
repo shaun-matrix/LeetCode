@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LeetCode",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "get_intersection_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-get_intersection_node-Debug-b9b3d13524d7ba53b456.json",
+					"name" : "get_intersection_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "length_of_longest_substring::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-length_of_longest_substring-Debug-a24a7169f99237489eb5.json",
+					"name" : "length_of_longest_substring",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "max_sub_array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-max_sub_array-Debug-4d0629d8404290d7e348.json",
+					"name" : "max_sub_array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "remove_duplicates::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-remove_duplicates-Debug-df30e3eb0bc1008fa091.json",
+					"name" : "remove_duplicates",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "roman_to_int::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-roman_to_int-Debug-cf8c183525b3d2f31736.json",
+					"name" : "roman_to_int",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "two_sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-two_sum-Debug-3c65d648731b9112da0a.json",
+					"name" : "two_sum",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yaoxuan/Desktop/Github_code/LeetCode/cmake-build-debug",
+		"source" : "/Users/yaoxuan/Desktop/Github_code/LeetCode"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
